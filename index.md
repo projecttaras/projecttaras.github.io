@@ -5,6 +5,7 @@ layout: page
 <div>
         <section id="banner">
                   <div class="inner">
+                     <img src="/assets/themes/bootstrap-3/images/taraslogowhite.png" style="width: 10%;max-height: 100%"><br>
                     <header>
                       <h2>TARAS</h2>
                     </header>
