@@ -29,7 +29,9 @@ layout: page
               <div class="row">
                 <div class="12u">
                    <section>
-                    <span class="icon featured fa-user"></span>
+                    <div style="height: 150px">
+                      <img src="/assets/themes/bootstrap-3/images/anjan.png" style="width: 10%;max-height: 100%" />
+                  </div>
                     <header>
                       <h3>Dr. L. Anjaneyulu</h3>
                       <p>Faculty Incharge</p>
@@ -40,7 +42,9 @@ layout: page
               <div class="row">
                 <div class="3u 12u(narrower)">
                   <section>
-                    <span class="icon featured fa-user"></span>
+                  <div style="height: 150px">
+                      <img src="/assets/themes/bootstrap-3/images/vivek.jpg" style="width: 50%;max-height: 100%" />
+                  </div>
                     <header>
                       <h3>Vivek Unnikrishnan</h3>
                       <p>Project Lead</p>
@@ -49,7 +53,9 @@ layout: page
                 </div>
                 <div class="3u 12u(narrower)">
                   <section>
-                    <span class="icon featured fa-user"></span>
+                    <div style="height: 150px">
+                      <img src="/assets/themes/bootstrap-3/images/aneesh.jpg" style="width: 50%;max-height: 100%" />
+                  </div>
                     <header>
                       <h3>Aneesh Makala</h3>
                       <p>Backend Lead</p>
@@ -58,7 +64,9 @@ layout: page
                 </div>
                 <div class="3u 12u(narrower)">
                   <section>
-                    <span class="icon featured fa-user"></span>
+                    <div style="height: 150px">
+                      <img src="/assets/themes/bootstrap-3/images/rishabh.jpg" style="width:50%;max-height: 100%" />
+                  </div>
                     <header>
                       <h3>Rishabh Karajgi</h3>
                       <p>Backend and Marketing lead</p>
@@ -67,7 +75,9 @@ layout: page
                 </div>
                 <div class="3u 12u(narrower)">
                   <section>
-                    <span class="icon featured fa-user"></span>
+                    <div style="height: 150px">
+                      <img src="/assets/themes/bootstrap-3/images/sreerag.jpg" style="width: 50%;max-height: 100%" />
+                  </div>
                     <header>
                       <h3>Sreerag Sreenath</h3>
                       <p>Hardware and Creative Lead</p>
