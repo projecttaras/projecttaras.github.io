@@ -2414,8 +2414,8 @@
 			-webkit-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
-			color: #fff;
+			
+			color: #01AFFF;
 			display: inline-block;
 			opacity: 0;
 			padding: 3em;
@@ -2427,6 +2427,7 @@
 				border-bottom: solid 2px;
 				border-top: solid 2px;
 				margin: 0 0 2em 0;
+				color: #020607
 				padding: 3px 0 3px 0;
 			}
 
@@ -2437,6 +2438,7 @@
 					font-weight: 900;
 					letter-spacing: 0.2em;
 					margin: 0;
+					color: #020607
 					padding-left: 0.05em;
 					position: relative;
 					text-transform: uppercase;
