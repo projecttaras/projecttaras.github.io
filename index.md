@@ -44,7 +44,7 @@ layout: page
                 <div class="3u 12u(narrower)">
                   <section>
                   <div style="height: 150px">
-                      <img src="/assets/themes/bootstrap-3/images/vivek.jpg" style="width: 50%;max-height: 100%" />
+                      <img src="/assets/themes/bootstrap-3/images/vivek.png" style="width: 50%;max-height: 100%" />
                   </div>
                     <header>
                       <h3>Vivek Unnikrishnan</h3>
@@ -55,7 +55,7 @@ layout: page
                 <div class="3u 12u(narrower)">
                   <section>
                     <div style="height: 150px">
-                      <img src="/assets/themes/bootstrap-3/images/aneesh.jpg" style="width: 50%;max-height: 100%" />
+                      <img src="/assets/themes/bootstrap-3/images/aneesh.png" style="width: 50%;max-height: 100%" />
                   </div>
                     <header>
                       <h3>Aneesh Makala</h3>
@@ -66,7 +66,7 @@ layout: page
                 <div class="3u 12u(narrower)">
                   <section>
                     <div style="height: 150px">
-                      <img src="/assets/themes/bootstrap-3/images/rishabh.jpg" style="width:50%;max-height: 100%" />
+                      <img src="/assets/themes/bootstrap-3/images/rishabh.png" style="width:50%;max-height: 100%" />
                   </div>
                     <header>
                       <h3>Rishabh Karajgi</h3>
@@ -77,7 +77,7 @@ layout: page
                 <div class="3u 12u(narrower)">
                   <section>
                     <div style="height: 150px">
-                      <img src="/assets/themes/bootstrap-3/images/sreerag.jpg" style="width: 50%;max-height: 100%" />
+                      <img src="/assets/themes/bootstrap-3/images/sreerag.png" style="width: 50%;max-height: 100%" />
                   </div>
                     <header>
                       <h3>Sreerag Sreenath</h3>
