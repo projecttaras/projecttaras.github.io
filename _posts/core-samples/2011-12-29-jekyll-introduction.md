@@ -1,5 +1,7 @@
 ---
 layout: post
+theme :
+  name : bootstrap-3
 category : lessons
 tagline: "Supporting tagline"
 tags : [intro, beginner, jekyll, tutorial]
