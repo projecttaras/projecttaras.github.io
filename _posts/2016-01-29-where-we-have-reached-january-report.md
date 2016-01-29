@@ -6,6 +6,7 @@ title: "Where we have reached: January Report"
 category: Reports
 tagline: Vivek Unnikrishnan
 tags: [report,January]
+image: /assets/themes/bootstrap-3/images/vivek.png
 ---
 {% include JB/setup %}
 
