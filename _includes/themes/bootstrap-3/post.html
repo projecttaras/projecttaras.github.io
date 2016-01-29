@@ -1,47 +1,67 @@
-<div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
-</div>
+<article id="main">
 
-<div class="row post-full">
-  <div class="col-xs-12">
-    <div class="date">
-      <span>{{ page.date | date_to_long_string }}</span>
-    </div>
-    <div class="content">
-      {{ content }}
-    </div>
+          <header class="special container">
+           <img src="{{page.image}}" style="width: 10%">
+            <h2>{{ page.title }} </h2>
+            {% if page.tagline %}<p>{{page.tagline}}</p>{% endif %}
+          </header>
 
-  {% unless page.categories == empty %}
+          <!-- One -->
+            <section class="wrapper style4 container">
+
+              <div class="row 150%">
+
+                <div class="12u 12u(narrower) important(narrower)">
+
+                  <!-- Content -->
+                    <div class="content">
+                      <section>
+                        
+                        <header>
+                          <h2><b>{{ page.date | date_to_long_string }}</b></h2>
+                        </header>
+                        {{content}}
+                      </section>
+                    </div>
+
+                </div>
+              </div>
+            </section>
+  <!--          {% unless page.categories == empty %}
     <ul class="tag_box inline">
       <li><i class="glyphicon glyphicon-open"></i></li>
       {% assign categories_list = page.categories %}
       {% include JB/categories_list %}
     </ul>
   {% endunless %}  
-
+<div class="row">
+     <div class="12u 12u(narrower) important(narrower)" align="center">
   {% unless page.tags == empty %}
     <ul class="tag_box inline">
-      <li><i class="glyphicon glyphicon-tags"></i></li>
+      <li class="button small"><i class="glyphicon glyphicon-tags"></i></li>
       {% assign tags_list = page.tags %}
       {% include JB/tags_list %}
     </ul>
-  {% endunless %}  
-  
-    <hr>
-    <ul class="pagination">
-    {% if page.previous %}
-      <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a></li>
-    {% else %}
-      <li class="prev disabled"><a>&larr; Previous</a></li>
-    {% endif %}
-      <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
-    {% if page.next %}
-      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &raquo;</a></li>
-    {% else %}
-      <li class="next disabled"><a>Next &rarr;</a>
-    {% endif %}
-    </ul>
-    <hr>
-    {% include JB/comments %}
   </div>
-</div>
+</div> -->
+  {% endunless %}  
+    <div class="row">
+     <div class="12u 12u(narrower) important(narrower)" align="center">
+          <ul>
+          {% if page.previous %}
+            <li class="prev button small"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a></li>
+          {% else %}
+            <li class="prev disabled button small"><a>&larr; Previous</a></li>
+          {% endif %}
+            <li class="button small"><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+          {% if page.next %}
+            <li class="next button small"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &raquo;</a></li>
+          {% else %}
+            <li class="next disabled button small"><a>Next &rarr;</a>
+          {% endif %}
+          </ul>
+    </div>
+  </div>
+    {% include JB/comments %}
+
+        </article>
