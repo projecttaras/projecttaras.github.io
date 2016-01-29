@@ -10,7 +10,7 @@ image: /assets/themes/bootstrap-3/images/vivek.png
 ---
 {% include JB/setup %}
 
-From January 4th when college started we have started working on the EPICS project and till now the ourney has been wonderful. We have learnt a lot of things and have accomplished a great deal in this past month. Here is a list of things we have done till now
+From January 4th when college began we started working on the EPICS project and till now the journey has been wonderful. We have learnt a lot of things and have accomplished a great deal in this past month. Here is a list of things we have done till now
 
 1. Submitted our first proposal document highlighting our project name, its overview, the cost and a time plan.
 2. Came up with the logo and a name: TARAS. 
