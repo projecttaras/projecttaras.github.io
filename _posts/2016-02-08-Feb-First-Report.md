@@ -12,7 +12,7 @@ image: /assets/themes/bootstrap-3/images/sreerag.png
 
 <img align="center" src="/assets/themes/bootstrap-3/images/trans.jpg" style="width: 50%;">
 <br>
-This week has set a good momentum for the hardware side of the project. We have collected the following items from the previous EPICS team:
+This week has set a good momentum for the hardware side of the project. We have collected the following items from the previous EPICS team :
 <ul>
 	<li>1.	SIM 908</li>
 	<li>2.	RS 232 to TTL Convertor</li>
