@@ -55,7 +55,7 @@ layout: homepage
                 <div class="3u 12u(narrower)">
                   <section>
                     <div style="height: 150px">
-                      <img src="/assets/themes/bootstrap-3/images/aneesh.png" style="width: 50%;max-height: 100%" />
+                      <img src="/assets/themes/bootstrap-3/images/aneesh1.png" style="width: 50%;max-height: 100%" />
                   </div>
                     <header>
                       <h3>Aneesh Makala</h3>
