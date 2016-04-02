@@ -91,3 +91,9 @@ h1, h2, h3, h4 {
   margin:auto;
   display:block;
 }
+
+
+.spons:hover{
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}

@@ -2,6 +2,16 @@
 layout: homepage
 ---
 {% include JB/setup %}
+<style>
+.spons{
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+.spons:hover{
+  -webkit-filter: grayscale(0%);
+  filter: grayscale(0%);
+}
+</style>
 <div>
         <section id="banner">
                   <div class="inner">
@@ -88,6 +98,31 @@ layout: homepage
               </div>
             </section>
           <!-- Three -->
+          <section class="wrapper style1 container special">
+            <h2>Our Sponsors</h2>
+              <div class="row">
+                <div class="6u 12u(narrower)">
+                  <section>
+                  <div style="height: 150px">
+                      <img class="spons" src="/assets/themes/bootstrap-3/images/digitalocean.png" style="width: 50%;max-height: 100%;filter: grayscale(100%);" />
+                  </div>
+                    <header>
+                      <h3>Digital Ocean</h3>
+                    </header>
+                  </section>
+                </div>
+                <div class="6u 12u(narrower)">
+                  <section>
+                    <div style="height: 150px">
+                      <img class="spons" src="/assets/themes/bootstrap-3/images/amazon.png" style="width: 50%;max-height: 100%;" />
+                  </div>
+                    <header>
+                      <h3>Amazon</h3>
+                    </header>
+                  </section>
+                </div>
+              </div>
+            </section>
         </article>
       <!-- CTA -->
 </div>
