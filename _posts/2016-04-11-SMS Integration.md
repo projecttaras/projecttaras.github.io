@@ -19,6 +19,8 @@ Hence we decided to try and integrate sms. We did this by using MSG91 as our SMS
 we managed to pull of an SMS triggered accident. Since Meteor is real time the lag between sms and its appearance on a portal page
 is really negligible.
 
+<img src="http://blog.msg91.com/wp-content/uploads/2013/11/msg91-bulk-sms-api.png" style="width: 100%">
+
 SMS is much more reliable since even in low reception areas there is a much higher chance that the sms will go through. Thus it
 helps us fetch help for accidents even faster. The sms is sent with a unique token, latitute and longitute of the accident and the
 remaining work is done on the server side.
