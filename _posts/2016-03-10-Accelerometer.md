@@ -44,7 +44,7 @@ Use a 3-pin relimate for connecting X, Y & Z outputs.
 Also connect AREF pin to the 3.3v. This is done to set the reference voltage to 3.3v because the output of ADXL335 is 3.3v compatible.
 <br>
 <br>
-<h2>Some good research materials Found</h2>
+<h2>Simulation Data</h2>
 These are some of the ideal simulation data I have collected during a simulation in the room.
 
 <h3>Stable acclerometer reading</h3>
