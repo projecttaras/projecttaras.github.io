@@ -3,7 +3,7 @@ layout: post
 theme :
   name : bootstrap-3
 title: "Feb 1st Week Report"
-category: weekly_log
+category: Weekly Log
 tagline: Sreerag Sreenath
 tags: [report,Feb,progress]
 image: /assets/themes/bootstrap-3/images/sreerag.png

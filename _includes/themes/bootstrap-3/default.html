@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>{{ page.title }}</title>
+    <title>TARAS: {{ page.title }}</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -56,6 +56,7 @@
       <script src="{{ ASSET_PATH }}/assets/js/util.js"></script>
       <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
       <script src="{{ ASSET_PATH }}/assets/js/main.js"></script>
-
+      
+    {% include JB/analytics %}
   </body>
 </html>
