@@ -45,6 +45,37 @@ Also connect AREF pin to the 3.3v. This is done to set the reference voltage to 
 <br>
 <br>
 <h2>Some good research materials Found</h2>
+These are some of the ideal simulation data I have collected during a simulation in the room.
+
+<h3>Stable acclerometer reading</h3>
+<img align="center" src="/assets/themes/bootstrap-3/images/blog/stable.png" style="width: 50%;">
+<br>
+These are the readings found when the acclerometer stays idle on the table
+
+<br>
+<br>
+<h3>Sudden crash reading</h3>
+<img align="center" src="/assets/themes/bootstrap-3/images/blog/suddencrash.png" style="width: 50%;">
+<br>
+These are the readings found when the acclerometer is subjected to sudden force.
+
+<br>
+<br>
+<h3>Slide Over reading</h3>
+<img align="center" src="/assets/themes/bootstrap-3/images/blog/slideover.png" style="width: 50%;">
+<br>
+These are the readings found when the acclerometer changes its orientation.
+
+<br>
+<br>
+<h3>Roll Over reading</h3>
+<img align="center" src="/assets/themes/bootstrap-3/images/blog/rollovr.png" style="width: 50%;">
+<br>
+These are the readings found when the acclerometer performs an rollover.
+
+<br>
+<br>
+<h2>Some good research materials Found</h2>
 
 I found the following research materials good about accident detection.
 <br>
