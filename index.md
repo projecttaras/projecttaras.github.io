@@ -91,7 +91,7 @@ layout: homepage
                   </div>
                     <header>
                       <h3>Sreerag Sreenath</h3>
-                      <p>Hardware and Creative Lead</p>
+                      <p>Hardware, Backend and Creative Lead</p>
                     </header>
                 </section>
                 </div>
